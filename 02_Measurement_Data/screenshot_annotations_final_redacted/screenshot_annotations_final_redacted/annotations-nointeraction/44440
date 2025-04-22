@@ -1,0 +1,59 @@
+{
+  "id": 44440,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 84713,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_19_670_0_1031_5312_1%2Bkabel1-doku-austria%2B11670%2B1031_5312_1%2B1%2B2023-10-31%2B18-47-43.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:59:22.015874Z",
+    "updated_at": "2024-02-03T14:57:27.935656Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4783,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "OojixXbTxf",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-03T14:57:27.904547Z",
+  "updated_at": "2024-02-03T14:57:27.904564Z",
+  "draft_created_at": null,
+  "lead_time": 0.79,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": 55406,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 89933,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-90_Measurement/90_Measurement_2023-10-12_Profil_5/7_1446_1766_0_1025_10329_1%2BNDR%20FS%20HH%20HD%2B11582%2B1025_10329_1%2B5%2B2023-10-12%2B19-08-32.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T17:03:16.267709Z",
+    "updated_at": "2024-06-06T17:25:03.639978Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3684,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 21,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "SHWxL_Qtrm",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "media_library"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "jvs6O_fZVa",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privptr_no"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_ptr"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T21:13:39.515980Z",
+  "updated_at": "2024-06-06T17:25:03.580481Z",
+  "draft_created_at": null,
+  "lead_time": 3.217,
+  "last_action": null,
+  "project": 21,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

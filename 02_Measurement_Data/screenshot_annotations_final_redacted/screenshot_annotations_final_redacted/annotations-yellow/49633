@@ -1,0 +1,59 @@
+{
+  "id": 49633,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 65143,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_28_890_0_1115_13141_1%2BAstroTV%20HD%2B12662%2B1115_13141_1%2B6%2B2023-09-30%2B14-00-08.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:57:42.058689Z",
+    "updated_at": "2024-02-04T10:53:18.716209Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9614,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "fna1B94iuD",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-04T10:53:18.683600Z",
+  "updated_at": "2024-02-04T10:53:18.683618Z",
+  "draft_created_at": null,
+  "lead_time": 0.737,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

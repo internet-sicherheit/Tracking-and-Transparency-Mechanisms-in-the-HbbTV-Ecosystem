@@ -1,0 +1,59 @@
+{
+  "id": 35309,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 51527,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1544_2646_0_1108_12122_1%2BBibel%20TV%2B12551%2B1108_12122_1%2B4%2B2023-09-25%2B16-54-31.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:43.821883Z",
+    "updated_at": "2024-01-27T16:06:08.083119Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5652,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "3yaebbmfBn",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T16:06:08.051123Z",
+  "updated_at": "2024-01-27T16:06:08.051141Z",
+  "draft_created_at": null,
+  "lead_time": 0.894,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

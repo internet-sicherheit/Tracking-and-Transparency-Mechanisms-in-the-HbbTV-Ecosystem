@@ -1,0 +1,59 @@
+{
+  "id": 47139,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 62649,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_1556_3011_0_5_1794_133%2BQVC%2B12460%2B5_1794_133%2B6%2B2023-10-01%2B00-47-01.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:57:19.668340Z",
+    "updated_at": "2024-02-04T07:53:35.157140Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7120,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "GakpsayOX7",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-04T07:53:35.125202Z",
+  "updated_at": "2024-02-04T07:53:35.125221Z",
+  "draft_created_at": null,
+  "lead_time": 0.872,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 42239,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 82512,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_1500_2827_0_1025_10327_1%2Bndr-fs-nds-hd%2B11582%2B1025_10327_1%2B1%2B2023-11-03%2B02-54-51.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:59:03.237127Z",
+    "updated_at": "2024-02-02T14:52:54.868775Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2582,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "_W2FQFq_Go",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-02T14:52:54.830017Z",
+  "updated_at": "2024-02-02T14:52:54.830035Z",
+  "draft_created_at": null,
+  "lead_time": 533.731,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 43605,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 83878,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_1552_3125_0_15_38_133%2Bhgtv%2B10920%2B15_38_133%2B1%2B2023-11-01%2B15-44-40.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:59:14.875422Z",
+    "updated_at": "2024-02-03T05:12:42.915255Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3948,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "piCOn5r-bz",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-03T05:12:42.875729Z",
+  "updated_at": "2024-02-03T05:12:42.875748Z",
+  "draft_created_at": null,
+  "lead_time": 7.314,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

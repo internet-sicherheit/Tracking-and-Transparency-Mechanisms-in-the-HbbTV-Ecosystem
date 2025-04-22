@@ -1,0 +1,71 @@
+{
+  "id": 39067,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 53169,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_19_670_0_1031_5312_1%2Bkabel1%20Doku%20austria%2B11670%2B1031_5312_1%2B4%2B2023-09-23%2B03-11-36.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:58.432506Z",
+    "updated_at": "2024-06-06T14:07:07.716375Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7294,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "oJfO4WSb8s",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "media_library"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "VAIghw6cvJ",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privptr_no"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_ptr"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-30T09:45:57.602352Z",
+  "updated_at": "2024-06-06T14:07:07.655655Z",
+  "draft_created_at": null,
+  "lead_time": 2.811,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,16 @@
+google-cloud
+google-cloud-bigquery
+pandas
+db-dtypes
+pip
+matplotlib
+networkx
+seaborn
+plotly
+levenshtein
+tldextract
+scikit-learn
+glob
+ping3
+pywebostv
+mitmproxy

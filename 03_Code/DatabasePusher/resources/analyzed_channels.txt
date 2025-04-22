@@ -1,0 +1,413 @@
+Channel:  - ID: 7_1481_1547_0_1050_30821_1
+Channel: TEST F1 - ID: 7_1461_66_0_1054_30375_1
+Channel: TEST RA - ID: 7_1465_553_0_1058_30102_1
+Channel: PORTADA - ID: 7_1519_599_0_1058_30150_1
+Channel: BAJO DEMANDA - ID: 7_1465_555_0_1058_30110_1
+Channel: GUÍA - ID: 7_1465_561_0_1058_30121_1
+Channel: ALQUILER - ID: 7_1519_598_0_1058_30130_1
+Channel: CONTRATO - ID: 7_1519_603_0_1058_30169_1
+Channel: TEST TÉCNICO - ID: 7_1519_639_0_1058_30173_1
+Channel: TEST_CSD1 - ID: 7_1519_653_0_1058_30174_1
+Channel: TEST_CSD2 - ID: 7_1519_654_0_1058_30175_1
+Channel: TEST_CSD3 - ID: 7_1519_1061_0_1058_30176_1
+Channel: TEST_CSD4 - ID: 7_1519_1071_0_1058_30177_1
+Channel: TEST_CSD5 - ID: 7_1519_1095_0_1058_30178_1
+Channel: GUÍA FÁCIL - ID: 7_1519_1103_0_1058_30198_1
+Channel: ALQUILER X - ID: 7_48_58_0_1042_30056_1
+Channel: Promo TSA - ID: 7_1508_1118_0_1040_31303_1
+Channel: Telesur HD - ID: 7_1508_1119_0_1040_31305_1
+Channel: SENDER NEU JERUSALEM - ID: 7_1508_1120_0_1040_31306_1
+Channel: I24 Francis - ID: 7_1508_1121_0_1040_31307_1
+Channel: SACHSEN EINS - ID: 7_1508_1122_0_1040_31308_1
+Channel: TEST TOROS - ID: 7_1509_1123_0_1042_30064_1
+Channel: CANAL SUR A. - ID: 7_1511_1147_0_1046_30505_1
+Channel: QVC UHD - ID: 7_1487_1152_0_1006_4230_1
+Channel: TV Trwam - ID: 7_1487_1153_0_1006_4240_1
+Channel: 3sat HD - ID: 7_1489_1156_0_1010_11150_1
+Channel: KiKA HD - ID: 7_1489_1157_0_1010_11160_1
+Channel: ZDFinfo HD - ID: 7_1489_1158_0_1010_11170_1
+Channel: EXTREMADURA SAT - ID: 7_1491_1159_0_1012_6384_1
+Channel: TVGA HD EUROPA - ID: 7_1491_1160_0_1012_6385_1
+Channel: EURONEWS GERMAN SD - ID: 7_1491_1161_0_1012_6388_1
+Channel: Rai News 24 - ID: 7_1491_1162_0_1012_6389_1
+Channel: Telesur English - ID: 7_1491_1163_0_1012_6393_1
+Channel: MM2 Service 4 - ID: 7_1576_1164_0_1_4_1
+Channel: Arirang  HD - ID: 7_1497_1167_0_1020_7012_1
+Channel: France 24 (en Francais) - ID: 7_1498_1168_0_1022_6905_1
+Channel: France 24 (In English) - ID: 7_1498_1169_0_1022_6906_1
+Channel: TV5MONDE EUROPE HD - ID: 7_1498_1170_0_1022_6915_1
+Channel: TRT World HD - ID: 7_1498_1171_0_1022_6918_1
+Channel: MM1 Service 2 - ID: 7_1577_1172_0_1_2_1
+Channel: . - ID: 7_1552_1613_0_15_59_133
+Channel: TEST ANCAM10 - ID: 7_1503_1174_0_1032_30219_1
+Channel: CNN Int. - ID: 7_1565_1181_0_1068_5710_1
+Channel: DW English HD - ID: 7_1565_1178_0_1068_5700_1
+Channel: BVN TV - ID: 7_1565_1179_0_1068_5701_1
+Channel: Cubavision Internacional - ID: 7_1565_1180_0_1068_5703_1
+Channel: UA:Pershyi - ID: 7_1565_1182_0_1068_5721_1
+Channel: MALYATKO TV - ID: 7_1565_1183_0_1068_5741_1
+Channel: TV5 MONDE - ID: 7_1527_1552_0_1076_8902_1
+Channel: CANAL+ - ID: 7_1527_1553_0_1076_8909_1
+Channel: MTV - ID: 7_1528_1186_0_1078_28678_1
+Channel: Nick/Comedy Central+1 - ID: 7_1528_1187_0_1078_28680_1
+Channel: Nick Junior Global - ID: 7_1528_1188_0_1078_28665_1
+Channel: Nickelodeon Ukraine Pluto TV - ID: 7_1528_1189_0_1078_28670_1
+Channel: Comedy Central - ID: 7_1528_1190_0_1078_28676_1
+Channel: ProSieben Schweiz - ID: 7_1531_1191_0_1082_20001_1
+Channel: ProSieben Austria - ID: 7_1531_1192_0_1082_20002_1
+Channel: Kabel 1 Schweiz - ID: 7_1531_1193_0_1082_20003_1
+Channel: Kabel 1 Austria - ID: 7_1531_1194_0_1082_20004_1
+Channel: SAT.1 A - ID: 7_1531_1195_0_1082_20005_1
+Channel: SAT.1 CH - ID: 7_1531_1196_0_1082_20006_1
+Channel: SAT.1 HH/SH - ID: 7_1531_1197_0_1082_20008_1
+Channel: SAT.1 NS/Bremen - ID: 7_1531_1198_0_1082_20009_1
+Channel: SAT.1 RhlPf/Hessen - ID: 7_1531_1199_0_1082_20010_1
+Channel: BARKER COLLECTIVITES SD4 - ID: 7_1533_1201_0_1088_9311_1
+Channel: CNEWS - ID: 7_1535_1202_0_1090_9014_1
+Channel: LCP - ID: 7_1535_1203_0_1090_9015_1
+Channel: DATASYSTEM - ID: 7_1541_1236_0_1100_8799_1
+Channel: DOWNLOAD R7 G5+ SAGEM - ID: 7_1539_1205_0_1098_9103_1
+Channel: DOWNLOAD R7 G5 PACE - ID: 7_1539_1206_0_1098_9112_1
+Channel: DOWNLOAD R7 G5 SAMSUNG - ID: 7_1539_1208_0_1098_9119_1
+Channel: TOUS VOS PROGRAMMES - ID: 7_1539_1209_0_1098_9123_1
+Channel: DOWNLOAD SAGEM - ID: 7_1539_1210_0_1098_9126_1
+Channel: 6PLAY - ID: 7_1539_1211_0_1098_9130_1
+Channel: CANAL VOD - ID: 7_1539_1212_0_1098_9131_1
+Channel: CANAL+SERIES - ID: 7_1539_1213_0_1098_9133_1
+Channel: DOWNLOAD CPRO V2 9134 - ID: 7_1539_1214_0_1098_9134_1
+Channel: PUSH VOD COLLECTIVITES - ID: 7_1539_1215_0_1098_9136_1
+Channel: DOWNLOAD G9 9200 - ID: 7_1539_1216_0_1098_9137_1
+Channel: DOWNLOAD G10 SAGEM - ID: 7_1539_1217_0_1098_9138_1
+Channel: DOWNLOAD G10 HUMAX - ID: 7_1539_1218_0_1098_9139_1
+Channel: DOWNLOAD G5 SAMSUNG - ID: 7_1539_1219_0_1098_9146_1
+Channel: DOWNLOAD G5 PACE - ID: 7_1539_1220_0_1098_9147_1
+Channel: DOWNLOAD R7 G5+ PACE - ID: 7_1539_1221_0_1098_9152_1
+Channel: PASS XXL DORCEL - ID: 7_1539_1222_0_1098_9171_1
+Channel: PASS PINK X - ID: 7_1539_1223_0_1098_9174_1
+Channel: DONWLOAD SUISSE - ID: 7_1539_1224_0_1098_9188_1
+Channel: OTA REDSAT - ID: 7_1539_1225_0_1098_9190_1
+Channel: DOWNLOAD TNTSAT 9192 - ID: 7_1539_1226_0_1098_9192_1
+Channel: DATA SERVICE R9 - ID: 7_1539_1227_0_1098_9203_1
+Channel: Baden TV - ID: 7_1554_1238_0_33_76_133
+Channel: Sonnenklar TV - ID: 7_1554_1239_0_33_32_133
+Channel: MediaShop- Neuheiten - ID: 7_1554_1240_0_33_898_133
+Channel: meinTVshop - ID: 7_1554_1241_0_33_899_133
+Channel: Handystar TV 2 - ID: 7_1554_1242_0_33_46_133
+Channel: AstroTV - ID: 7_1554_1243_0_33_661_133
+Channel: Genius Trend - ID: 7_1554_1244_0_33_897_133
+Channel: REGIO TV - ID: 7_1554_1245_0_33_47_133
+Channel: SPORT1 - ID: 7_1554_1246_0_33_900_133
+Channel: HSE SD - ID: 7_1554_1247_0_33_40_133
+Channel: HSE Trend SD - ID: 7_1554_1248_0_33_77_133
+Channel: TELE 5 - ID: 7_1554_1249_0_33_51_133
+Channel: DMAX - ID: 7_1554_1250_0_33_63_133
+Channel: CGTN News HD - ID: 7_1568_1251_0_1106_6801_1
+Channel: CGTN Documentary HD - ID: 7_1568_1252_0_1106_6802_1
+Channel: CGTN Francais HD - ID: 7_1568_1253_0_1106_6803_1
+Channel: QVC2 - ID: 7_1544_1254_0_1108_3394_1
+Channel: QVC Deutschland - ID: 7_1544_1255_0_1108_12100_1
+Channel: Bibel TV - ID: 7_1544_1256_0_1108_12122_1
+Channel: Canal Algerie - ID: 7_1544_1257_0_1108_12137_1
+Channel: Algerie 3 - ID: 7_1544_1258_0_1108_12138_1
+Channel: SBN International - ID: 7_1544_1259_0_1108_12186_1
+Channel: Deluxe Rock - ID: 7_1126_1260_0_1118_10503_1
+Channel: Deluxe Rap - ID: 7_1126_1261_0_1118_10504_1
+Channel: Deluxe Dance by Kontor - ID: 7_1126_1262_0_1118_10505_1
+Channel: Deluxe Flashback - ID: 7_1126_1263_0_1118_10506_1
+Channel: Xplore - ID: 7_1126_1264_0_1118_10500_1
+Channel: Hip Trips - ID: 7_1126_1265_0_1118_10501_1
+Channel: One Terra - ID: 7_1126_1266_0_1118_10502_1
+Channel: ANIXE HD - ID: 7_1514_1267_0_1053_21100_1
+Channel: ShopLC HD - ID: 7_1514_1268_0_1053_21107_1
+Channel: QVC HD - ID: 7_1514_1269_0_1053_21103_1
+Channel: HSE HD - ID: 7_1514_1270_0_1053_21104_1
+Channel: SES 75 - ID: 7_1514_1271_0_1053_21111_1
+Channel: Nicer Dicer TV - ID: 7_1514_1272_0_1053_21112_1
+Channel: Genius Plus - ID: 7_1514_1273_0_1053_21113_1
+Channel: HSE Extra HD - ID: 7_1000_1275_0_1055_5501_1
+Channel: 1-2-3.tv HD - ID: 7_1000_1276_0_1055_5502_1
+Channel: QVC ZWEI HD - ID: 7_1000_1277_0_1055_5504_1
+Channel: BILD HD - ID: 7_1504_1279_0_1033_10101_1
+Channel: Handystar TV HD - ID: 7_1504_1280_0_1033_10102_1
+Channel: Channel21 HD - ID: 7_1504_1281_0_1033_10104_1
+Channel: QVC STYLE HD - ID: 7_1504_1282_0_1033_10105_1
+Channel: SES UHD Demo Channel - ID: 7_1012_1283_0_1035_1_1
+Channel: UHD1 by ASTRA / HD+ - ID: 7_1012_1284_0_1035_2_1
+Channel: SES UHD Demo Channel 06 - ID: 7_1012_1285_0_1035_7_1
+Channel: SES UHD Demo Channel 05 - ID: 7_1012_1286_0_1035_6_1
+Channel: SES UHD Demo Channel 04 - ID: 7_1012_1287_0_1035_5_1
+Channel: SES UHD Demo Channel 03 - ID: 7_1012_1288_0_1035_4_1
+Channel: SES UHD Demo Channel 02 - ID: 7_1012_1289_0_1035_3_1
+Channel: tagesschau24 HD - ID: 7_1507_1290_0_1039_10375_1
+Channel: ONE HD - ID: 7_1507_1291_0_1039_10376_1
+Channel: ARD alpha HD - ID: 7_1507_1292_0_1039_10377_1
+Channel: SR Fernsehen HD - ID: 7_1507_1293_0_1039_10378_1
+Channel: Radio Bremen HD - ID: 7_1507_1294_0_1039_10379_1
+Channel: ARD-Test-R - ID: 7_1507_1295_0_1039_10390_1
+Channel: Service13405 - ID: 7_1482_1299_0_1001_13405_1
+Channel: Service13412 - ID: 7_1482_1300_0_1001_13412_1
+Channel: Flimmit - ID: 7_1486_1301_0_1005_13310_1
+Channel: Aristo.TV - ID: 7_1486_1302_0_1005_13311_1
+Channel: R9 Oesterreich HD - ID: 7_1486_1303_0_1005_13312_1
+Channel: krone.tv - ID: 7_1486_1304_0_1005_13313_1
+Channel: oe24.TV HD - ID: 7_1486_1305_0_1005_13314_1
+Channel: Stimmungsgarten TV - ID: 7_1486_1306_0_1005_13316_1
+Channel: Melodie TV NEU - ID: 7_1486_1307_0_1005_13317_1
+Channel: ServusTV HD Deutschland - ID: 7_1050_1308_0_1007_4914_1
+Channel: SES 01 - ID: 7_1493_1312_0_1015_4700_1
+Channel: SES 02 - ID: 7_1493_1313_0_1015_4701_1
+Channel: SES 04 - ID: 7_1493_1315_0_1015_4703_1
+Channel: SES 06 - ID: 7_1493_1316_0_1015_4705_1
+Channel: SES 07 - ID: 7_1493_1317_0_1015_4706_1
+Channel: SES 08 - ID: 7_1493_1318_0_1015_4707_1
+Channel: SES 09 - ID: 7_1493_1319_0_1015_4708_1
+Channel: SES 10 - ID: 7_1493_1320_0_1015_4709_1
+Channel: Die Neue Zeit TV - ID: 7_1493_1324_0_1015_4713_1
+Channel: Das Erste HD - ID: 7_1496_1337_0_1019_10301_1
+Channel: arte HD - ID: 7_1496_1338_0_1019_10302_1
+Channel: SWR BW HD - ID: 7_1496_1339_0_1019_10303_1
+Channel: SWR RP HD - ID: 7_1496_1340_0_1019_10304_1
+Channel: WDR HD Köln - ID: 7_1566_1341_0_1021_28332_1
+Channel: WDR HD Aachen - ID: 7_1566_1342_0_1021_28333_1
+Channel: WDR HD Bielefeld - ID: 7_1566_1343_0_1021_28334_1
+Channel: WDR HD Bonn - ID: 7_1566_1344_0_1021_28335_1
+Channel: WDR HD Dortmund - ID: 7_1566_1345_0_1021_28336_1
+Channel: WDR HD Duisburg - ID: 7_1566_1346_0_1021_28337_1
+Channel: WDR HD Düsseldorf - ID: 7_1566_1347_0_1021_28338_1
+Channel: WDR HD Essen - ID: 7_1566_1348_0_1021_28339_1
+Channel: WDR HD Münster - ID: 7_1566_1349_0_1021_28340_1
+Channel: WDR HD Siegen - ID: 7_1566_1350_0_1021_28341_1
+Channel: WDR HD Wuppertal - ID: 7_1566_1351_0_1021_28342_1
+Channel: WDR Test-R - ID: 7_1566_1352_0_1021_28354_1
+Channel: SAT.1 Gold Österreich - ID: 7_1502_1362_0_1031_5310_1
+Channel: Pro7 MAXX Austria - ID: 7_1502_1363_0_1031_5311_1
+Channel: kabel1 Doku austria - ID: 7_1502_1364_0_1031_5312_1
+Channel: sixx AUSTRIA - ID: 7_1502_1365_0_1031_5309_1
+Channel: 4mediathek - ID: 7_1502_1366_0_1031_5305_1
+Channel: Pace DS 830 NP - ID: 7_1553_1367_0_3_4024_133
+Channel: Sky Sport Bundesliga 6 HD - ID: 7_1553_1368_0_3_317_133
+Channel: Sky Sport 6 HD - ID: 7_1553_1369_0_3_318_133
+Channel: Sky Sport Bundesliga 7 HD - ID: 7_1553_1370_0_3_327_133
+Channel: Sky Sport 7 HD - ID: 7_1553_1371_0_3_328_133
+Channel: Sky Sport Austria 5 HD - ID: 7_1553_1372_0_3_326_133
+Channel: Prime Video Sportsbar - ID: 7_1553_1373_0_3_341_133
+Channel: Humax PR-HD3000C - ID: 7_1563_1375_0_2_3980_133
+Channel: Pace TDC 866 NSDX - ID: 7_1563_1376_0_2_3994_133
+Channel: Sky Sport Bundesliga 2 HD - ID: 7_1563_1377_0_2_277_133
+Channel: Sky Sport 2 HD - ID: 7_1563_1378_0_2_278_133
+Channel: Sky Sport Austria 3 HD - ID: 7_1563_1374_0_2_339_133
+Channel: Sky Sport Bundesliga UHD - ID: 7_1564_1379_0_16_552_133
+Channel: Sky Sport Bundesliga 8 HD - ID: 7_1564_1380_0_16_337_133
+Channel: Sky Sport 8  HD - ID: 7_1564_1381_0_16_338_133
+Channel: Sky service config - ID: 7_1564_1382_0_16_3499_133
+Channel: Sky Sport Austria 6 HD - ID: 7_1564_1383_0_16_342_133
+Channel: Das Erste - ID: 7_1542_1384_0_1101_28106_1
+Channel: BR Fernsehen Süd - ID: 7_1542_1385_0_1101_28107_1
+Channel: hr-fernsehen - ID: 7_1542_1386_0_1101_28108_1
+Channel: BR Fernsehen Nord - ID: 7_1542_1387_0_1101_28110_1
+Channel: WDR Köln - ID: 7_1542_1388_0_1101_28111_1
+Channel: SWR Fernsehen BW - ID: 7_1542_1389_0_1101_28113_1
+Channel: Sky Sport Bundesliga 1 HD - ID: 7_1557_1390_0_6_267_133
+Channel: Sky Sport 1 HD - ID: 7_1557_1391_0_6_268_133
+Channel: 3sat - ID: 7_1529_1392_0_1079_28007_1
+Channel: KiKA - ID: 7_1529_1393_0_1079_28008_1
+Channel: ZDF - ID: 7_1529_1394_0_1079_28006_1
+Channel: zdf_neo - ID: 7_1529_1395_0_1079_28014_1
+Channel: ZDFinfo - ID: 7_1529_1396_0_1079_28011_1
+Channel: Sky Sport Bundesliga 5 HD - ID: 7_1555_1397_0_4_307_133
+Channel: Sky Sport 5 HD - ID: 7_1555_1398_0_4_308_133
+Channel: Sky Sport Austria 2 HD - ID: 7_1567_1401_0_8_329_133
+Channel: Sky Sport Bundesliga 4 HD - ID: 7_1567_1399_0_8_297_133
+Channel: Sky Sport 4 HD - ID: 7_1567_1400_0_8_298_133
+Channel: rbb Brandenburg - ID: 7_1525_1402_0_1073_28205_1
+Channel: rbb Berlin - ID: 7_1525_1403_0_1073_28206_1
+Channel: ARD-TEST-1 - ID: 7_1525_1404_0_1073_28221_1
+Channel: NDR FS MV - ID: 7_1525_1405_0_1073_28224_1
+Channel: NDR FS HH - ID: 7_1525_1406_0_1073_28225_1
+Channel: NDR FS NDS - ID: 7_1525_1407_0_1073_28226_1
+Channel: NDR FS SH - ID: 7_1525_1408_0_1073_28227_1
+Channel: MDR Sachsen - ID: 7_1525_1409_0_1073_28228_1
+Channel: MDR S-Anhalt - ID: 7_1525_1410_0_1073_28229_1
+Channel: MDR Thüringen - ID: 7_1525_1411_0_1073_28230_1
+Channel: SWR Fernsehen RP - ID: 7_1525_1412_0_1073_28231_1
+Channel: ARD-Data-1 - ID: 7_1525_1413_0_1073_28250_1
+Channel: N24 DOKU Austria - ID: 7_1558_1414_0_7_53_133
+Channel: Nick/Comedy Central Austria - ID: 7_1558_1418_0_7_61_133
+Channel: DELUXE MUSIC - ID: 7_1558_1419_0_7_65_133
+Channel: Immer etwas Neues TV - ID: 7_1558_1420_0_7_514_133
+Channel: MediaShop- Meine Einkaufswelt - ID: 7_1558_1421_0_7_775_133
+Channel: Genius exklusiv - ID: 7_1558_1422_0_7_54_133
+Channel: Channel21 - ID: 7_1558_1423_0_7_769_133
+Channel: pearl.tv Shop - ID: 7_1558_1424_0_7_765_133
+Channel: DMAX Austria - ID: 7_1558_1426_0_7_73_133
+Channel: FOLX MUSIC TELEVISION - ID: 7_1558_1427_0_7_774_133
+Channel: TLC Austria - ID: 7_1558_1428_0_7_71_133
+Channel: RTL Television - ID: 7_1534_1434_0_1089_12003_1
+Channel: RTL Regional NRW - ID: 7_1534_1435_0_1089_12004_1
+Channel: RTL HB NDS - ID: 7_1534_1436_0_1089_12005_1
+Channel: RTL Bayern - ID: 7_1534_1437_0_1089_12006_1
+Channel: RTL HH SH - ID: 7_1534_1438_0_1089_12009_1
+Channel: RTLZWEI - ID: 7_1534_1439_0_1089_12020_1
+Channel: TOGGO plus - ID: 7_1534_1440_0_1089_12030_1
+Channel: SUPER RTL - ID: 7_1534_1441_0_1089_12040_1
+Channel: VOX - ID: 7_1534_1442_0_1089_12060_1
+Channel: NITRO - ID: 7_1534_1443_0_1089_12061_1
+Channel: RTLup - ID: 7_1534_1444_0_1089_12080_1
+Channel: ntv - ID: 7_1534_1445_0_1089_12090_1
+Channel: RTL Austria - ID: 7_1536_1446_0_1091_28800_1
+Channel: VOX Austria - ID: 7_1536_1447_0_1091_28805_1
+Channel: RTLZWEI Austria - ID: 7_1536_1448_0_1091_28810_1
+Channel: SUPER RTL A - ID: 7_1536_1449_0_1091_28815_1
+Channel: Eurosport 1 Deutschland - ID: 7_1536_1450_0_1091_31200_1
+Channel: HSE Extra - ID: 7_1536_1451_0_1091_31210_1
+Channel: VOXup - ID: 7_1536_1452_0_1091_28820_1
+Channel: Sky Sport Bundesliga 3 HD - ID: 7_1549_1453_0_12_287_133
+Channel: Sky Sport 3 HD - ID: 7_1549_1454_0_12_288_133
+Channel: Pace TDS 865 NSD - ID: 7_1549_1455_0_12_4028_133
+Channel: Pace TDS 865 NSDX - ID: 7_1549_1456_0_12_4017_133
+Channel: Pace TDS 866 NSD - ID: 7_1549_1457_0_12_3997_133
+Channel: Pace TDS 866 NSDX - ID: 7_1549_1458_0_12_3998_133
+Channel: Humax PR-HD3000S - ID: 7_1549_1459_0_12_4035_133
+Channel: QVC ZWEI UHD - ID: 7_1562_1460_0_1097_2010_1
+Channel: Sky Sport Bundesliga 9 HD - ID: 7_1540_1462_0_11_257_133
+Channel: Sky Sport 9  HD - ID: 7_1540_1463_0_11_258_133
+Channel: Sky Sport Austria 7 HD - ID: 7_1540_1465_0_11_261_133
+Channel: Sky Sport Bundesliga 10 HD - ID: 7_1540_1466_0_11_271_133
+Channel: Sky Sport 10 HD - ID: 7_1540_1467_0_11_269_133
+Channel: CNBC HD - ID: 7_1540_1461_0_11_125_133
+Channel: WDR Bielefeld - ID: 7_1550_1468_0_1201_28306_1
+Channel: WDR Dortmund - ID: 7_1550_1469_0_1201_28307_1
+Channel: WDR Düsseldorf - ID: 7_1550_1470_0_1201_28308_1
+Channel: WDR Essen - ID: 7_1550_1471_0_1201_28309_1
+Channel: WDR Münster - ID: 7_1550_1472_0_1201_28310_1
+Channel: WDR Siegen - ID: 7_1550_1473_0_1201_28311_1
+Channel: Radio Bremen TV - ID: 7_1550_1474_0_1201_28385_1
+Channel: SR Fernsehen - ID: 7_1550_1475_0_1201_28386_1
+Channel: WDR Test A - ID: 7_1550_1476_0_1201_28395_1
+Channel: EWTN katholisches TV - ID: 7_1556_1477_0_5_62_133
+Channel: Handystar TV - ID: 7_1556_1478_0_5_659_133
+Channel: 1-2-3.tv - ID: 7_1556_1479_0_5_662_133
+Channel: Disney Channel - ID: 7_1556_1480_0_5_1793_133
+Channel: TLC - ID: 7_1556_1481_0_5_772_133
+Channel: SIXX - ID: 7_1556_1482_0_5_776_133
+Channel: ANIXE+ - ID: 7_1556_1483_0_5_764_133
+Channel: QVC - ID: 7_1556_1484_0_5_1794_133
+Channel: N24 DOKU - ID: 7_1556_1485_0_5_48_133
+Channel: Downl CAM 2 - ID: 7_1077_1490_0_1105_4083_53
+Channel: M7 Zenterio - ID: 7_1077_1491_0_1105_4084_53
+Channel: Kaon OTA - ID: 7_1077_1492_0_1105_4085_53
+Channel: OTA SMIT CAM 702 - ID: 7_1077_1493_0_1105_4089_53
+Channel: Current Time TV - ID: 7_1077_1489_0_1105_4160_53
+Channel: SAT.1 - ID: 7_1543_1554_0_1107_17500_1
+Channel: ProSieben - ID: 7_1543_1555_0_1107_17501_1
+Channel: kabel eins - ID: 7_1543_1556_0_1107_17502_1
+Channel: WELT - ID: 7_1543_1557_0_1107_17503_1
+Channel: SAT.1 Gold - ID: 7_1543_1558_0_1107_17504_1
+Channel: Pro7 MAXX - ID: 7_1543_1559_0_1107_17505_1
+Channel: SAT.1 Bayern - ID: 7_1543_1561_0_1107_17507_1
+Channel: SAT.1 NRW - ID: 7_1543_1562_0_1107_17508_1
+Channel: kabel eins Doku - ID: 7_1543_1563_0_1107_17509_1
+Channel: Bloomberg Europe TV - ID: 7_1101_1569_0_1111_7200_1
+Channel: FP URMET - ID: 7_1101_1570_0_1111_7252_1
+Channel: STB Panasonic - ID: 7_1101_1571_0_1111_7267_1
+Channel: Datendienst T1M - ID: 7_1101_1572_0_1111_7270_1
+Channel: Panasonic Viera - ID: 7_1101_1573_0_1111_7281_1
+Channel: Sky News Intl - ID: 7_1101_1574_0_1111_7290_1
+Channel: IDS DOWNLOAD SVC - ID: 7_1101_1575_0_1111_7294_1
+Channel: WDR Aachen - ID: 7_1101_1576_0_1111_28534_1
+Channel: WDR Wuppertal - ID: 7_1101_1577_0_1111_28535_1
+Channel: WDR Bonn - ID: 7_1101_1578_0_1111_28536_1
+Channel: WDR Duisburg - ID: 7_1101_1579_0_1111_28537_1
+Channel: rhein main tv - ID: 7_1546_1499_0_1113_12614_1
+Channel: JuweloTV - ID: 7_1546_1500_0_1113_12616_1
+Channel: Dreamgirls24 TV temp - ID: 7_1546_1501_0_1113_12618_1
+Channel: Erotiksat24 TV temp - ID: 7_1546_1502_0_1113_12619_1
+Channel: MBS - Test1 - ID: 7_1546_1503_0_1113_12621_1
+Channel: Maennersache TV - ID: 7_1546_1504_0_1113_12622_1
+Channel: DateLine - ID: 7_1546_1505_0_1113_12623_1
+Channel: Fotohandy - ID: 7_1546_1506_0_1113_12624_1
+Channel: Mobile Sex - ID: 7_1546_1507_0_1113_12625_1
+Channel: SEX-Kontakte - ID: 7_1546_1508_0_1113_12626_1
+Channel: Traumfrauen TV - ID: 7_1546_1509_0_1113_12629_1
+Channel: Heiss und Sexy TV - ID: 7_1546_1510_0_1113_12630_1
+Channel: volksmusik - ID: 7_1546_1511_0_1113_12633_1
+Channel: nice - ID: 7_1546_1512_0_1113_12634_1
+Channel: Babestation24 - ID: 7_1546_1513_0_1113_12635_1
+Channel: EROTIKA TV - NEU! - ID: 7_1546_1514_0_1113_12639_1
+Channel: BunnyClub24 - ID: 7_1546_1515_0_1113_12640_1
+Channel: Clipmobile - ID: 7_1546_1516_0_1113_12641_1
+Channel: MEGARADIOmix - ID: 7_1546_1517_0_1113_12642_1
+Channel: ALT Sendersuchlauf starten!! - ID: 7_1546_1518_0_1113_12643_1
+Channel: MBS - Test2 - ID: 7_1546_1494_0_1113_12600_1
+Channel: K-TV - ID: 7_1546_1495_0_1113_12601_1
+Channel: Deutsches Musik Fernsehen - ID: 7_1546_1496_0_1113_12604_1
+Channel: More Than Sports TV - ID: 7_1546_1497_0_1113_12606_1
+Channel: GayBoys LIVE - ID: 7_1546_1498_0_1113_12612_1
+Channel: RAPS - ID: 7_1546_1519_0_1113_12613_1
+Channel: Schlager Radio - ID: 7_1546_1520_0_1113_12644_1
+Channel: Trigger.FM - ID: 7_1546_1521_0_1113_12645_1
+Channel: MBS - Test4 - ID: 7_1546_1522_0_1113_12646_1
+Channel: MBS - Test5 - ID: 7_1546_1523_0_1113_12647_1
+Channel: MBS - Test3 - ID: 7_1546_1524_0_1113_12638_1
+Channel: wedo movies - ID: 7_1546_1525_0_1113_12607_1
+Channel: NITRO Austria - ID: 7_1547_1526_0_1115_13102_1
+Channel: Lilo.TV - ID: 7_1547_1527_0_1115_13103_1
+Channel: LT1-OOE - ID: 7_1547_1528_0_1115_13104_1
+Channel: Shop LC - ID: 7_1547_1529_0_1115_13106_1
+Channel: VISIT-X.tv - ID: 7_1547_1530_0_1115_13107_1
+Channel: ServusTV Deutschland - ID: 7_1547_1531_0_1115_13110_1
+Channel: 4MEDIATHEK - ID: 7_1547_1532_0_1115_13112_1
+Channel: L-TV - ID: 7_1547_1533_0_1115_13113_1
+Channel: AstroTV HD - ID: 7_1547_1534_0_1115_13141_1
+Channel: HITRADIO OE3 - ID: 7_1548_1535_0_1117_13013_1
+Channel: ORF2E - ID: 7_1548_1536_0_1117_13014_1
+Channel: Mei Musi - ID: 7_1548_1537_0_1117_13015_1
+Channel: Volksmusik.TV - ID: 7_1548_1538_0_1117_13018_1
+Channel: RiC - ID: 7_1548_1539_0_1117_13019_1
+Channel: ntv Austria - ID: 7_1548_1540_0_1117_13021_1
+Channel: Wir24TV - ID: 7_1548_1541_0_1117_13022_1
+Channel: TV1 OOE NEU - ID: 7_1548_1542_0_1117_13023_1
+Channel: BBC News - ID: 7_1483_1549_0_1002_5001_1
+Channel: NHK WORLD-JPN - ID: 7_1483_1550_0_1002_5021_1
+Channel: Al Jazeera English HD - ID: 7_1483_1551_0_1002_5031_1
+Channel: ARAGON TV INT - ID: 7_1488_1154_0_1008_29811_1
+Channel: StarParadies D - ID: 7_1431_1614_0_1003_13222_1
+Channel: Bibel TV HD - ID: 7_1431_1615_0_1003_13224_1
+Channel: KURIER TV - ID: 7_1431_1616_0_1003_13225_1
+Channel: StarParadies AT - ID: 7_1431_1617_0_1003_13226_1
+Channel: Hope TV - ID: 7_1431_1618_0_1003_13227_1
+Channel: RTLup Austria - ID: 7_1431_1619_0_1003_13229_1
+Channel: Service 13232 - ID: 7_1431_1620_0_1003_13232_1
+Channel: Service 13233 - ID: 7_1431_1621_0_1003_13233_1
+Channel: ZDF HD - ID: 7_1490_1309_0_1011_11110_1
+Channel: zdf_neo HD - ID: 7_1490_1310_0_1011_11130_1
+Channel: a.tv HD - ID: 7_1499_1595_0_1023_5800_1
+Channel: münchen.tv HD - ID: 7_1499_1596_0_1023_5801_1
+Channel: rfo Regional Fernsehen Oberbayern HD - ID: 7_1499_1597_0_1023_5802_1
+Channel: a.tv HD . - ID: 7_1499_1598_0_1023_5803_1
+Channel: tv.ingolstadt HD - ID: 7_1499_1599_0_1023_5804_1
+Channel: Lokal-TV-Portal HD - ID: 7_1499_1600_0_1023_5805_1
+Channel: NIEDERBAYERN TV HD - ID: 7_1499_1601_0_1023_5807_1
+Channel: OTVA HD - ID: 7_1499_1602_0_1023_5808_1
+Channel: Franken Plus HD - ID: 7_1499_1603_0_1023_5809_1
+Channel: BR Fernsehen Süd HD - ID: 7_1500_1354_0_1025_10325_1
+Channel: BR Fernsehen Nord HD - ID: 7_1500_1355_0_1025_10326_1
+Channel: NDR FS NDS HD - ID: 7_1500_1356_0_1025_10327_1
+Channel: NDR FS MV HD - ID: 7_1500_1357_0_1025_10328_1
+Channel: NDR FS HH HD - ID: 7_1500_1358_0_1025_10329_1
+Channel: NDR FS SH HD - ID: 7_1500_1359_0_1025_10330_1
+Channel: phoenix HD - ID: 7_1500_1360_0_1025_10331_1
+Channel: sonnenklar.TV HD - ID: 7_1545_1564_0_1109_5400_1
+Channel: Juwelo HD - ID: 7_1545_1565_0_1109_5403_1
+Channel: pearl.tv HD Shop - ID: 7_1545_1566_0_1109_5404_1
+Channel: MM1 Service 1 - ID: 7_1477_640_0_1_1_1
+Channel: Schlager Deluxe - ID: 7_1552_1606_0_15_35_133
+Channel: Genius family - ID: 7_1552_1607_0_15_33_133
+Channel: HGTV - ID: 7_1552_1608_0_15_38_133
+Channel: rbb Brandenburg HD - ID: 7_1521_1589_0_1061_10350_1
+Channel: rbb Berlin HD - ID: 7_1521_1590_0_1061_10351_1
+Channel: MDR Sachsen HD - ID: 7_1521_1591_0_1061_10352_1
+Channel: MDR S-Anhalt HD - ID: 7_1521_1592_0_1061_10353_1
+Channel: MDR Thüringen HD - ID: 7_1521_1593_0_1061_10354_1
+Channel: hr-fernsehen HD - ID: 7_1521_1594_0_1061_10355_1
+Channel: Sky Sport Austria 4 HD - ID: 7_1540_1464_0_11_259_133

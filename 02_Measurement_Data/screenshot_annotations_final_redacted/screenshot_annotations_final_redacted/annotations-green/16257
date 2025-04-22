@@ -1,0 +1,59 @@
+{
+  "id": 16257,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "8\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 46286,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1380_1854_0_1073_28221_1%2BARD-TEST-1%2B12109%2B1073_28221_1%2B4%2B2023-09-23%2B08-18-03.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:03.242049Z",
+    "updated_at": "2023-10-02T11:35:15.301054Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 411,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "GWbrjEmZ9L",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-02T11:35:15.273461Z",
+  "updated_at": "2023-10-02T11:35:15.273477Z",
+  "draft_created_at": null,
+  "lead_time": 0.968,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

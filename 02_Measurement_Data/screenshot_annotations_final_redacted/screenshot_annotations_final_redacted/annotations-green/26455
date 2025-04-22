@@ -1,0 +1,59 @@
+{
+  "id": 26455,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "7\u00a0months, 3\u00a0weeks",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 48420,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1415_1868_0_7_61_133%2BNickComedy%20Central%20Austria%2B12148%2B7_61_133%2B4%2B2023-09-23%2B09-28-26.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:18.847301Z",
+    "updated_at": "2023-10-18T08:05:50.962256Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2545,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "IX5kb143Ur",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-18T08:05:50.933075Z",
+  "updated_at": "2023-10-18T08:05:50.933090Z",
+  "draft_created_at": null,
+  "lead_time": 1.04,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 43153,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 83427,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_1542_2875_0_1101_28106_1%2Bdas-erste%2B11836%2B1101_28106_1%2B1%2B2023-11-07%2B11-00-10.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:59:11.158701Z",
+    "updated_at": "2024-02-03T04:18:24.829303Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3497,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "tIeH4MjnbE",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-03T04:18:24.764414Z",
+  "updated_at": "2024-02-03T04:18:24.764432Z",
+  "draft_created_at": null,
+  "lead_time": 1.528,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

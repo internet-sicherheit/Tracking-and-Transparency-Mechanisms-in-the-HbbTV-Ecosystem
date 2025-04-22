@@ -1,0 +1,59 @@
+{
+  "id": 26819,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "7\u00a0months, 3\u00a0weeks",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 48784,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1424_2105_0_1021_28337_1%2BWDR%20HD%20Duisburg%2B11523%2B1021_28337_1%2B4%2B2023-09-26%2B13-41-28.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:21.555696Z",
+    "updated_at": "2023-10-18T08:40:31.901169Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2909,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "84-q_LWFLt",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-18T08:40:31.867610Z",
+  "updated_at": "2023-10-18T08:40:31.867625Z",
+  "draft_created_at": null,
+  "lead_time": 0.794,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

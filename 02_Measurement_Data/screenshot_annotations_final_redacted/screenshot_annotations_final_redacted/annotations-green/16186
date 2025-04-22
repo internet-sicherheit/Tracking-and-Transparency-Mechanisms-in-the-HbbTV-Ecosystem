@@ -1,0 +1,59 @@
+{
+  "id": 16186,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "8\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 46218,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1380_1852_0_1073_28205_1%2Brbb%20Brandenburg%2B12109%2B1073_28205_1%2B4%2B2023-09-22%2B15-55-33.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:02.766330Z",
+    "updated_at": "2024-01-30T13:03:13.482672Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 343,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "tHfDHyUns1",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-02T11:29:03.707627Z",
+  "updated_at": "2024-01-30T13:03:13.443994Z",
+  "draft_created_at": null,
+  "lead_time": 3.587,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

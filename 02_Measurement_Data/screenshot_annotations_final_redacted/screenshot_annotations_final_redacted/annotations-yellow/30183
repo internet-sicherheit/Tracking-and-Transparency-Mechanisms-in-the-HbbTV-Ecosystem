@@ -1,0 +1,59 @@
+{
+  "id": 30183,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 56578,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_1386_1439_0_1082_20004_1%2BKabel%201%20Austria%2B12051%2B1082_20004_1%2B6%2B2023-09-27%2B16-09-55.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:56:31.871827Z",
+    "updated_at": "2024-01-26T10:00:10.936396Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1049,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "ppTyQkx00K",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-26T10:00:10.905904Z",
+  "updated_at": "2024-01-26T10:00:10.905922Z",
+  "draft_created_at": null,
+  "lead_time": 1.017,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 26504,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "7\u00a0months, 3\u00a0weeks",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 48469,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1415_1876_0_7_73_133%2BDMAX%20Austria%2B12148%2B7_73_133%2B4%2B2023-09-24%2B13-52-42.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:19.209649Z",
+    "updated_at": "2023-10-18T08:07:44.783979Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2594,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "PIBGCpRIlb",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-18T08:07:44.753922Z",
+  "updated_at": "2023-10-18T08:07:44.753938Z",
+  "draft_created_at": null,
+  "lead_time": 1.05,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 58665,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 93192,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-90_Measurement/90_Measurement_2023-10-12_Profil_5/7_1553_2852_0_3_326_133%2BSky%20Sport%20Austria%205%20HD%2B11719%2B3_326_133%2B5%2B2023-10-12%2B18-49-22.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T17:03:50.867168Z",
+    "updated_at": "2024-02-06T10:42:23.076963Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6759,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 21,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "TKJrhY8JsS",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "no_signal"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-06T10:42:23.041086Z",
+  "updated_at": "2024-02-06T10:42:23.041106Z",
+  "draft_created_at": null,
+  "lead_time": 1.405,
+  "last_action": null,
+  "project": 21,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

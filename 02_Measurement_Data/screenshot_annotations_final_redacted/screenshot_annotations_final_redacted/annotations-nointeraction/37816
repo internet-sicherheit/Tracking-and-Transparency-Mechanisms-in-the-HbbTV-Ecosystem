@@ -1,0 +1,59 @@
+{
+  "id": 37816,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 80862,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_1391_1899_0_1091_28815_1%2Bsuper-rtl-a%2B12226%2B1091_28815_1%2B1%2B2023-11-02%2B16-29-29.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:58:49.921267Z",
+    "updated_at": "2024-01-27T21:38:37.711975Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 932,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "f8j9w9Ch1Y",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T21:38:37.680388Z",
+  "updated_at": "2024-01-27T21:38:37.680406Z",
+  "draft_created_at": null,
+  "lead_time": 2.011,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

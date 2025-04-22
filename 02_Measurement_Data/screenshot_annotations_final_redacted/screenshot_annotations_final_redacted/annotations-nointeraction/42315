@@ -1,0 +1,95 @@
+{
+  "id": 42315,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 82588,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_1502_2838_0_1031_5311_1%2Bpro7-maxx-austria%2B11670%2B1031_5311_1%2B1%2B2023-11-01%2B20-28-58.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:59:03.887259Z",
+    "updated_at": "2024-05-28T12:26:38.731732Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2658,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "IrtInqIp7F",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privacy"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "NI20sFHc2s",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "cookie_banner"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_type"
+    },
+    {
+      "id": "SlkH8-vFsL",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "cb_02_pro7sat1_part"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "cb_type"
+    },
+    {
+      "id": "qelcvumMAG",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "cb_layer_1"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "cb_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-02T14:55:50.852419Z",
+  "updated_at": "2024-05-28T12:26:38.688697Z",
+  "draft_created_at": null,
+  "lead_time": 8.943,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

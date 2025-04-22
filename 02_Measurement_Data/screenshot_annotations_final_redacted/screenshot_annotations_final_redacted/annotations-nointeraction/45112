@@ -1,0 +1,59 @@
+{
+  "id": 45112,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 85385,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-91_Measurement/91_Measurement_2023-10-31/7_262_2045_0_1117_13018_1%2Bvolksmusiktv%2B12692%2B1117_13018_1%2B1%2B2023-11-02%2B12-03-28.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:59:28.159664Z",
+    "updated_at": "2024-02-03T15:28:19.270061Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5455,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 20,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "Zun0Er8cbJ",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-03T15:28:19.234651Z",
+  "updated_at": "2024-02-03T15:28:19.234669Z",
+  "draft_created_at": null,
+  "lead_time": 0.908,
+  "last_action": null,
+  "project": 20,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

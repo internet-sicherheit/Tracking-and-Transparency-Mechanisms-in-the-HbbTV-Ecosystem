@@ -1,0 +1,59 @@
+{
+  "id": 38645,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 52747,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1566_3147_0_1021_28340_1%2BWDR%20HD%20M%C3%BCnster%2B11523%2B1021_28340_1%2B4%2B2023-09-25%2B09-47-32.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:54.368324Z",
+    "updated_at": "2024-01-30T07:45:09.174581Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6872,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "2kgNreXfd0",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-30T07:45:09.144655Z",
+  "updated_at": "2024-01-30T07:45:09.144671Z",
+  "draft_created_at": null,
+  "lead_time": 12.775,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,21 @@
+#!/usr/bin/expect -f
+send "Attempting to connect to {IP of TV}\r"
+# Connect to the TV (via ssh)
+spawn ssh root@{IP of TV}
+expect "password:"
+sleep 1
+send "{Password of TV}\r"
+sleep 1
+
+# Switch to the cookie store directory and delete the compressed cookei stores.
+send "cd /mnt/lg/cmn_data/var/lib/wam/Default/\r"
+sleep 1
+send "rm cookies.tar \r"
+sleep 1
+send "rm local_storage.tar \r"
+sleep 1
+send "rm -r Cache/* \r"
+sleep 1
+
+# We are done :)
+send "exit\r"

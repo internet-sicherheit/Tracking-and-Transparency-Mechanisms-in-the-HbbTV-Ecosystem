@@ -1,0 +1,71 @@
+{
+  "id": 56723,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 91250,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-90_Measurement/90_Measurement_2023-10-12_Profil_5/7_1525_2925_0_1073_28231_1%2BSWR%20Fernsehen%20RP%2B12109%2B1073_28231_1%2B5%2B2023-10-14%2B13-51-30.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T17:03:30.172841Z",
+    "updated_at": "2024-06-06T18:23:53.653155Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5001,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 21,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "HGr5mh0-HO",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "media_library"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "2kl_R3ny4d",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privptr_no"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_ptr"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-06T07:35:28.376198Z",
+  "updated_at": "2024-06-06T18:23:53.603272Z",
+  "draft_created_at": null,
+  "lead_time": 3.188,
+  "last_action": null,
+  "project": 21,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

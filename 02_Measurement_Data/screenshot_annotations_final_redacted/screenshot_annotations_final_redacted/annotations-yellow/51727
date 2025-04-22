@@ -1,0 +1,59 @@
+{
+  "id": 51727,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 78245,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-116_Measurement/116_Measurement_Profil_6_Nachmessung_merged/7_1411_1577_0_33_900_133%2Bsport1%2B12480%2B33_900_133%2B6%2B2023-11-27%2B12-44-12.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:51:38.357315Z",
+    "updated_at": "2024-02-04T19:24:34.784907Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 11042,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "1P3CL45c39",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-04T19:24:34.749741Z",
+  "updated_at": "2024-02-04T19:24:34.749758Z",
+  "draft_created_at": "2024-02-04T19:21:52.563435Z",
+  "lead_time": 3.186,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

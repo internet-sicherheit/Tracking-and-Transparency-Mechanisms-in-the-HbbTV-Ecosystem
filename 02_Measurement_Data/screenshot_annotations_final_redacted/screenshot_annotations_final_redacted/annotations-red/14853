@@ -1,0 +1,59 @@
+{
+  "id": 14853,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "8\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 45193,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-83_Measurement_2023-09-14/7_66_1036_0_1021_28342_1%2BWDR%20HD%20Wuppertal%2B11523%2B1021_28342_1%2B3%2B2023-09-15%2B11-39-51.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-09-26T12:39:43.089098Z",
+    "updated_at": "2023-09-30T07:34:00.578099Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9149,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 17,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "0Q9byt1B2M",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-09-30T07:34:00.547239Z",
+  "updated_at": "2023-09-30T07:34:00.547255Z",
+  "draft_created_at": "2023-09-30T07:33:56.958324Z",
+  "lead_time": 14.86,
+  "last_action": null,
+  "project": 17,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

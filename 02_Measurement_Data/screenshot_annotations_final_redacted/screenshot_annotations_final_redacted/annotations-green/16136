@@ -1,0 +1,59 @@
+{
+  "id": 16136,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "8\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 46168,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1101_3039_0_1111_28536_1%2BWDR%20Bonn%2B12603%2B1111_28536_1%2B4%2B2023-09-23%2B00-39-13.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:02.434432Z",
+    "updated_at": "2023-10-02T11:26:52.119245Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 293,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "pV1Syt-Df0",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-02T11:26:52.088354Z",
+  "updated_at": "2023-10-02T11:26:52.088371Z",
+  "draft_created_at": null,
+  "lead_time": 2.312,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

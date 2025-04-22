@@ -1,0 +1,59 @@
+{
+  "id": 56057,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 90584,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-90_Measurement/90_Measurement_2023-10-12_Profil_5/7_1500_2827_0_1025_10327_1%2BNDR%20FS%20NDS%20HD%2B11582%2B1025_10327_1%2B5%2B2023-10-17%2B06-37-48.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T17:03:23.182547Z",
+    "updated_at": "2024-02-05T22:24:51.539344Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4335,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 21,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "YyV-41aAuE",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T22:24:51.504401Z",
+  "updated_at": "2024-02-05T22:24:51.504418Z",
+  "draft_created_at": null,
+  "lead_time": 0.971,
+  "last_action": null,
+  "project": 21,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 47425,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 62935,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_1566_3139_0_1021_28332_1%2BWDR%20HD%20K%C3%B6ln%2B11523%2B1021_28332_1%2B6%2B2023-10-01%2B06-18-37.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:57:22.317861Z",
+    "updated_at": "2024-02-04T08:18:01.881901Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7406,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "02Vc9psEJF",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "discuss"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-04T08:18:01.838813Z",
+  "updated_at": "2024-02-04T08:18:01.838831Z",
+  "draft_created_at": null,
+  "lead_time": 1.172,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

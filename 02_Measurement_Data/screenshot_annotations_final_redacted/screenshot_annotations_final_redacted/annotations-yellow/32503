@@ -1,0 +1,71 @@
+{
+  "id": 32503,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 58896,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_1424_2109_0_1021_28341_1%2BWDR%20HD%20Siegen%2B11523%2B1021_28341_1%2B6%2B2023-10-01%2B04-57-32.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:56:48.803561Z",
+    "updated_at": "2024-06-07T00:16:54.423166Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3367,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "8Xkixr55vp",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "media_library"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "k35TYF2hK8",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privptr_no"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_ptr"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T11:32:14.794071Z",
+  "updated_at": "2024-06-07T00:16:54.365113Z",
+  "draft_created_at": null,
+  "lead_time": 1.66,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

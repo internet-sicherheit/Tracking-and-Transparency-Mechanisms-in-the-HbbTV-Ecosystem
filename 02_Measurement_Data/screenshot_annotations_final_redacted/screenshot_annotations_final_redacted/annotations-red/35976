@@ -1,0 +1,59 @@
+{
+  "id": 35976,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 79025,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-117_Measurement/117_Measurement_Profil_3_Nachmessung/7_1389_1886_0_1089_12005_1%2Brtl-hb-nds%2B12187%2B1089_12005_1%2B3%2B2023-11-24%2B17-49-57.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T16:55:59.284028Z",
+    "updated_at": "2024-01-27T17:12:22.986820Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9979,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 17,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "HL7yyZZAgB",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T17:12:22.952796Z",
+  "updated_at": "2024-01-27T17:12:22.952812Z",
+  "draft_created_at": null,
+  "lead_time": 0.806,
+  "last_action": null,
+  "project": 17,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

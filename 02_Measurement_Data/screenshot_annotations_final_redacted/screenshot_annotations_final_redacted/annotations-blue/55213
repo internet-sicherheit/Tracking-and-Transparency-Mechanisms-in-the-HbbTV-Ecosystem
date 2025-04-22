@@ -1,0 +1,71 @@
+{
+  "id": 55213,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 89752,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-90_Measurement/90_Measurement_2023-10-12_Profil_5/7_1433_1698_0_1005_13313_1%2Bkrone.tv%2B11273%2B1005_13313_1%2B5%2B2023-10-13%2B09-00-17.jpg"
+    },
+    "meta": {},
+    "created_at": "2024-01-27T17:03:14.393563Z",
+    "updated_at": "2024-02-08T21:45:01.702701Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3503,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 21,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "dUdp91bhZF",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privacy"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "QfG812alox",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "priv_policy"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_type"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T19:53:12.615839Z",
+  "updated_at": "2024-02-08T21:45:01.647603Z",
+  "draft_created_at": null,
+  "lead_time": 2.374,
+  "last_action": null,
+  "project": 21,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

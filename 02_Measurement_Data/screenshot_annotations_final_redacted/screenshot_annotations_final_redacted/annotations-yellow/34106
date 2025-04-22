@@ -1,0 +1,59 @@
+{
+  "id": 34106,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 60498,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_1525_2923_0_1073_28229_1%2BMDR%20S-Anhalt%2B12109%2B1073_28229_1%2B6%2B2023-10-02%2B02-15-02.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:57:01.218323Z",
+    "updated_at": "2024-01-27T14:46:40.607842Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4969,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "85-Hm-9SDJ",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T14:46:40.576405Z",
+  "updated_at": "2024-01-27T14:46:40.576421Z",
+  "draft_created_at": null,
+  "lead_time": 1.26,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

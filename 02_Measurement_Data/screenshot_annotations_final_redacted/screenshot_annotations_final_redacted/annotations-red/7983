@@ -1,0 +1,95 @@
+{
+  "id": 7983,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "8\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 38766,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-83_Measurement_2023-09-14/7_1415_1876_0_7_73_133%2BDMAX%20Austria%2B12148%2B7_73_133%2B3%2B2023-09-15%2B16-01-22.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-09-26T12:38:50.099818Z",
+    "updated_at": "2024-05-28T12:47:28.328152Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2722,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 17,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "oZPI_65Bke",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "privacy"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    },
+    {
+      "id": "hz5DiHpaTS",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "cookie_banner"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "priv_type"
+    },
+    {
+      "id": "iAote716Il",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "cb_layer_1"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "cb_layer"
+    },
+    {
+      "id": "LssBJCZVwh",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "cb_05_dmaxtlcaustria"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "cb_type"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-09-27T12:18:59.716800Z",
+  "updated_at": "2024-05-28T12:47:28.269131Z",
+  "draft_created_at": null,
+  "lead_time": 7.282,
+  "last_action": null,
+  "project": 17,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

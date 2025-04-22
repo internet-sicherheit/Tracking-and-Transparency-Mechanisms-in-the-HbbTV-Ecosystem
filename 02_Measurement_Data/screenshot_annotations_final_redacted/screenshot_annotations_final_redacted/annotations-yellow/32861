@@ -1,0 +1,59 @@
+{
+  "id": 32861,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 59253,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-85_Measurement_2023-09-27/7_1446_1766_0_1025_10329_1%2BNDR%20FS%20HH%20HD%2B11582%2B1025_10329_1%2B6%2B2023-10-01%2B03-12-23.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-06T14:56:51.514030Z",
+    "updated_at": "2024-01-27T11:58:07.622343Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3724,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 19,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "bWe1dtEsnt",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T11:58:07.592465Z",
+  "updated_at": "2024-01-27T11:58:07.592482Z",
+  "draft_created_at": null,
+  "lead_time": 1.499,
+  "last_action": null,
+  "project": 19,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

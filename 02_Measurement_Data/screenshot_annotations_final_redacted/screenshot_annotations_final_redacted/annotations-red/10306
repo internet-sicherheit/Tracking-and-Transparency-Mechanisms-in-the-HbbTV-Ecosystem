@@ -1,0 +1,59 @@
+{
+  "id": 10306,
+  "created_username": " [ANNOTATOR_2_EMAIL], 2",
+  "created_ago": "8\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_2_EMAIL]"
+  },
+  "task": {
+    "id": 45855,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-83_Measurement_2023-09-14/7_96_802_0_12_287_133%2BSky%20Sport%20Bundesliga%203%20HD%2B12304%2B12_287_133%2B3%2B2023-09-17%2B08-50-24.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-09-26T12:39:48.420648Z",
+    "updated_at": "2023-09-28T05:58:08.459524Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9811,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 17,
+    "updated_by": 2,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "_m_-pDD9sT",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "no_signal"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-09-28T05:58:08.428905Z",
+  "updated_at": "2023-09-28T05:58:08.428923Z",
+  "draft_created_at": null,
+  "lead_time": 8.222,
+  "last_action": null,
+  "project": 17,
+  "updated_by": 2,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

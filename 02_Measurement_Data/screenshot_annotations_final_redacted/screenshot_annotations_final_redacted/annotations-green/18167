@@ -1,0 +1,59 @@
+{
+  "id": 18167,
+  "created_username": " [ANNOTATOR_2_EMAIL], 2",
+  "created_ago": "8\u00a0months",
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_2_EMAIL]"
+  },
+  "task": {
+    "id": 46598,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1383_1417_0_1078_28676_1%2BComedy%20Central%2B11973%2B1078_28676_1%2B4%2B2023-09-25%2B05-12-05.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:05.391881Z",
+    "updated_at": "2024-01-30T13:07:04.695290Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 723,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "nPl2F5uj4e",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-05T06:47:03.912686Z",
+  "updated_at": "2024-01-30T13:07:04.654700Z",
+  "draft_created_at": null,
+  "lead_time": 7.228,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 35537,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 51755,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1550_3001_0_1201_28385_1%2BRadio%20Bremen%20TV%2B12421%2B1201_28385_1%2B4%2B2023-09-25%2B07-23-12.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:45.776103Z",
+    "updated_at": "2024-01-27T16:14:08.827134Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5880,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "xzgtbE7J8z",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T16:14:08.794210Z",
+  "updated_at": "2024-01-27T16:14:08.794227Z",
+  "draft_created_at": null,
+  "lead_time": 1.026,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

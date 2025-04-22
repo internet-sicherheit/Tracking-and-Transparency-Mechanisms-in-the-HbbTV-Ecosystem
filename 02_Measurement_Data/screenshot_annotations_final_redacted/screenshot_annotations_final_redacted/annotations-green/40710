@@ -1,0 +1,59 @@
+{
+  "id": 40710,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "4\u00a0months, 1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 51457,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1543_3182_0_1107_17508_1%2BSAT.1%20NRW%2B12544%2B1107_17508_1%2B4%2B2023-09-25%2B00-47-36.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:43.245844Z",
+    "updated_at": "2024-01-30T12:42:41.441385Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5582,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "0XFXMvt1Mj",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "channel_tech_message"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-30T12:38:39.905691Z",
+  "updated_at": "2024-01-30T12:42:41.412578Z",
+  "draft_created_at": "2024-01-30T12:38:29.049154Z",
+  "lead_time": 8.02,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

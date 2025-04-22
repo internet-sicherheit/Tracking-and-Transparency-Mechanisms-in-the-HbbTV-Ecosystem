@@ -1,0 +1,29 @@
+#!/usr/bin/expect -f
+send "Attempting to connect to {IP of TV} (the TV)\r"
+# Connect to the TV (via ssh)
+spawn ssh root@{IP of TV}
+expect "password:"
+sleep 1
+send "{Password of TV}\r"
+sleep 1
+
+# Switch to the cookie store directory and compress the current stores
+send "cd /mnt/lg/cmn_data/var/lib/wam/Default/\r"
+sleep 1
+send "tar -cf cookies.tar Cookies \r"
+sleep 1
+send "tar -cf local_storage.tar 'Local\ Storage/'\r"
+sleep 1
+
+# reset the stores
+send "sqlite3 Cookies\r"
+sleep 1
+send "delete from cookies;\r"
+sleep 1
+send "delete from meta;\r"
+send ".quit\r"
+sleep 1
+
+# We are done :)
+send "exit\r"
+

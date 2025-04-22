@@ -1,0 +1,59 @@
+{
+  "id": 25286,
+  "created_username": " [ANNOTATOR_1_EMAIL], 1",
+  "created_ago": "7\u00a0months, 4\u00a0weeks",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "[ANNOTATOR_1_EMAIL]"
+  },
+  "task": {
+    "id": 47252,
+    "data": {
+      "image": "https://[ANNOTATION_TOOL_URL]:44444/data/local-files/?d=local-storage-84_Measurement_2023-09-22/7_1391_1899_0_1091_28815_1%2BSUPER%20RTL%20A%2B12226%2B1091_28815_1%2B4%2B2023-09-25%2B21-41-07.jpg"
+    },
+    "meta": {},
+    "created_at": "2023-10-01T07:02:10.265339Z",
+    "updated_at": "2023-10-12T14:30:36.251875Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1377,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 18,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "id": "nC6rwaLf5W",
+      "type": "choices",
+      "value": {
+        "choices": [
+          "tv_only"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "image",
+      "from_name": "first_layer"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-10-12T14:30:36.218646Z",
+  "updated_at": "2023-10-12T14:30:36.218661Z",
+  "draft_created_at": null,
+  "lead_time": 2.001,
+  "last_action": null,
+  "project": 18,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
